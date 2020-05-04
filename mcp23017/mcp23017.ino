@@ -209,9 +209,9 @@ void loop() {
     timer_on=0;
   }
     lcd.setCursor(0, 0);
-  lcd.print("Bloco Mikusamba");
+  lcd.print("I2C TEST Program");
 
   lcd.setCursor(2, 1);
-  lcd.print("plover diretor");
+  lcd.print(" by H.Emoto");
 }  
  
